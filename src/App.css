@@ -30,3 +30,11 @@
     transform: rotate(360deg);
   }
 }
+
+.nav-link a {
+    display: block;
+}
+
+.nav-link.active a {
+    color: #fff;
+}
